@@ -38,9 +38,9 @@ A Python script reads this data, saves it to a CSV file, and generates a graph.
 ![Graph](graph.png)
 
 ## Files
-- smart_room.ino → Arduino code
-- data_logger.py → Python logging script
--example_data.csv → sample data output
+- Arduino/smart_room.ino → Arduino code
+- Python/data_logger.py → Python logging script
+- Data/example_data.csv → sample data output
 
 ## Conclusion
 This project demonstrates a complete system integrating sensors, control logic, user interaction, and data analysis using both Arduino and Python.
